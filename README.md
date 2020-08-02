@@ -13,14 +13,14 @@ This project is definitely going to be highly beneficial for society when used i
 
 ## ACHIEVEMENTS-
 
-1.The project is in working phase.
-2. A balancing plate has been installed which remains horizontal always even during the time of climbing stair thus         keeping the load in place.
-3. It is faster than its previous counterparts which used joint legs for climbing.
+- The project is in working phase.
+- A balancing plate has been installed which remains horizontal always even during the time of climbing stair thus         keeping the load in place.
+- It is faster than its previous counterparts which used joint legs for climbing.
 
 ## LEARNINGS- 
 
-1.Learned a lot about structures and their stabilities.
-2.Got to learn a lot of mechanical skills like cutting, drilling etc. 
-3. Learned about electrical connections, and electronic chips and stuff like Aurdino, Node MCU 
-4. Learned a lot of things while coding for balancing plate .
-5. And above all we learned to work together as a team.
+- Learned a lot about structures and their stabilities.
+- Got to learn a lot of mechanical skills like cutting, drilling etc. 
+- Learned about electrical connections, and electronic chips and stuff like Aurdino, Node MCU 
+- Learned a lot of things while coding for balancing plate .
+- And above all we learned to work together as a team.
