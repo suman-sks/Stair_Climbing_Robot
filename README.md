@@ -10,6 +10,21 @@ The rear arms are rigid while the front arm (basically an elbow joint) is flexib
 
 This project is definitely going to be highly beneficial for society when used in its full potential. Of course it can perform some usual tasks like carrying stuffs up and down but with some modifications it can be highly helpful for physically challenged people for moving up and down in buildings especially those which don’t have lifts installed in them which is generally not installed in smaller buildings.
 
+Material Required:
+
+    PVC pipes
+    PVC pipe joints(90 deg.,120 deg.)
+    Jumper Wires
+    Bread Board
+    DC motors
+    Motor Drivers(RKI-1341)
+    Arduino Uno
+    Bluetooth Module HC-05
+    2 x Servo Motor
+    3 x Lipo Batteries(12V)
+    6 x Wheels(8 cm)
+
+
 
 ## ACHIEVEMENTS-
 
